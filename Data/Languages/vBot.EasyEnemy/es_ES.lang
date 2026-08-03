@@ -1,0 +1,13 @@
+; es_ES translation file - vBot.EasyEnemy
+DisplayName="Enemigo fácil"
+vBot.EasyEnemy.Main.groupSettings="Configuración fácil de enemigos"
+vBot.EasyEnemy.Main.checkEnable="Habilitar enemigo fácil"
+vBot.EasyEnemy.Main.lblRange="Rango de escaneo:"
+vBot.EasyEnemy.Main.checkAvoidBless="Evitar el hechizo de bendición"
+vBot.EasyEnemy.Main.checkAvoidSnow="Evite el escudo contra la nieve"
+vBot.EasyEnemy.Main.checkPreferFence="Prefiere objetivos con mejoras de valla"
+vBot.EasyEnemy.Main.checkAvoidGuild="No apuntes a compañeros de gremio"
+vBot.EasyEnemy.Main.checkClearOnBuff="Borrar objetivo en Bless/Snow"
+vBot.EasyEnemy.Main.checkPreferChinese="Prefiero raza china"
+vBot.EasyEnemy.Main.checkPreferEurope="Prefiero raza europea"
+vBot.EasyEnemy.Main.lblStatus="Estado: inactivo"

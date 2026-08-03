@@ -1,0 +1,13 @@
+; de_DE translation file - vBot.EasyEnemy
+DisplayName="Einfacher Feind"
+vBot.EasyEnemy.Main.groupSettings="Einfache Feindeinstellungen"
+vBot.EasyEnemy.Main.checkEnable="Aktivieren Sie Easy Enemy"
+vBot.EasyEnemy.Main.lblRange="Scanbereich:"
+vBot.EasyEnemy.Main.checkAvoidBless="Vermeiden Sie den Segenszauber"
+vBot.EasyEnemy.Main.checkAvoidSnow="Vermeiden Sie Schneeschild"
+vBot.EasyEnemy.Main.checkPreferFence="Bevorzugen Sie Ziele mit Zaun-Buffs"
+vBot.EasyEnemy.Main.checkAvoidGuild="Zielen Sie nicht auf Gildenkameraden"
+vBot.EasyEnemy.Main.checkClearOnBuff="Löschen Sie das Ziel auf Bless/Snow"
+vBot.EasyEnemy.Main.checkPreferChinese="Bevorzugen Sie chinesische Rasse"
+vBot.EasyEnemy.Main.checkPreferEurope="Bevorzugen Sie europäische Rasse"
+vBot.EasyEnemy.Main.lblStatus="Status: Leerlauf"

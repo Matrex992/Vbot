@@ -1,0 +1,8 @@
+DisplayName="Nhật ký"
+vBot.Log.Main.Panel.checkNormal="Bình thường"
+vBot.Log.Main.Panel.checkError="Lỗi"
+vBot.Log.Main.Panel.checkWarning="Cảnh báo"
+vBot.Log.Main.Panel.checkDebug="Gỡ lỗi"
+vBot.Log.Main.Panel.btnReset="Thông thoáng"
+vBot.Log.Main.Panel.checkEnabled="Đã bật"
+

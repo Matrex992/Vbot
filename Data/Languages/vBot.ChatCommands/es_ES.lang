@@ -1,0 +1,4 @@
+; es_ES translation file - vBot.ChatCommands
+DisplayName="Comandos de chat"
+vBot.ChatCommands.Main.label1="Comandos disponibles"
+vBot.ChatCommands.Main.lblSubtitle="Escribe los siguientes comandos en la ventana de chat del juego:"

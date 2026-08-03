@@ -1,0 +1,8 @@
+DisplayName="Журнал"
+vBot.Log.Main.Panel.checkNormal="Общий"
+vBot.Log.Main.Panel.checkError="Ошибка"
+vBot.Log.Main.Panel.checkWarning="Варнинг"
+vBot.Log.Main.Panel.checkDebug="Дебаг"
+vBot.Log.Main.Panel.btnReset="Очистить"
+vBot.Log.Main.Panel.checkEnabled="Включить"
+

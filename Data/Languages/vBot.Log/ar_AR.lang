@@ -1,0 +1,8 @@
+﻿DisplayName="السجل"
+vBot.Log.Main.Panel.checkNormal="عادي"
+vBot.Log.Main.Panel.checkError="خطأ"
+vBot.Log.Main.Panel.checkWarning="تحذير"
+vBot.Log.Main.Panel.checkDebug="تصحيح"
+vBot.Log.Main.Panel.btnReset="مسح الكل"
+vBot.Log.Main.Panel.checkEnabled="فعل"
+

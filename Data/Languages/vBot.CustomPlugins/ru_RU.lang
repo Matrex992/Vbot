@@ -1,0 +1,8 @@
+; ru_RU translation file - vBot.CustomPlugins
+vBot.CustomPlugins.Main.tabControl="Пользовательские плагины"
+vBot.CustomPlugins.Main.managerTab="Управление плагинами"
+vBot.CustomPlugins.Main.btnRefresh="Обновить"
+vBot.CustomPlugins.Main.btnReload="Обновить выбранное"
+vBot.CustomPlugins.Main.btnOpenFolder="Открыть папку плагинов"
+vBot.CustomPlugins.Main.lblStatus="Папка пользовательских плагинов"
+DisplayName="Пользовательские дополнения"

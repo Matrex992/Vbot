@@ -1,0 +1,4 @@
+; es_ES translation file - vBot.ServerInfo
+vBot.ServerInfo.Main.lvServerInfo.Column0="Servidor"
+vBot.ServerInfo.Main.lvServerInfo.Column1="Capacidad"
+DisplayName="Información del servidor"

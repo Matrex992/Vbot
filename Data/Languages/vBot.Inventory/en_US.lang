@@ -1,0 +1,9 @@
+﻿DisplayName="Inventory"
+vBot.Inventory.Main.Panel.buttonUseItem="Use"
+vBot.Inventory.Main.Panel.label1="Inventory:"
+vBot.Inventory.Main.Panel.label2="Free Slots:"
+vBot.Inventory.UseItemDialog.label2="Item according to your own decision\nyou can use. A condition window will open\nand from there you can set the terms you want"
+vBot.Inventory.UseItemDialog.label1="If you want to use the item directly,\njust click the button"
+vBot.Inventory.UseItemDialog.buttonCancel="Use with conditions"
+vBot.Inventory.UseItemDialog.buttonOk="Use Directly"
+

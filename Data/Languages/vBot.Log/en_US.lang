@@ -1,0 +1,8 @@
+﻿DisplayName="Log"
+vBot.Log.Main.Panel.checkNormal="Normal"
+vBot.Log.Main.Panel.checkError="Error"
+vBot.Log.Main.Panel.checkWarning="Warning"
+vBot.Log.Main.Panel.checkDebug="Debug"
+vBot.Log.Main.Panel.btnReset="Clear"
+vBot.Log.Main.Panel.checkEnabled="Enabled"
+

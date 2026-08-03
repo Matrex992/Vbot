@@ -1,0 +1,8 @@
+; es_ES translation file - vBot.CustomPlugins
+vBot.CustomPlugins.Main.tabControl="Complementos personalizados"
+vBot.CustomPlugins.Main.managerTab="Administrar complementos"
+vBot.CustomPlugins.Main.btnRefresh="Refrescar"
+vBot.CustomPlugins.Main.btnReload="Recargar seleccionado"
+vBot.CustomPlugins.Main.btnOpenFolder="Abrir carpeta de complementos"
+vBot.CustomPlugins.Main.lblStatus="Carpeta de complementos personalizados"
+DisplayName="Complementos personalizados"

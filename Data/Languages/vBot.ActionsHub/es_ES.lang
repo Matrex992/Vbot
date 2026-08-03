@@ -1,0 +1,11 @@
+; es_ES translation file - vBot.ActionsHub
+DisplayName="Centro de acciones"
+vBot.ActionsHub.Main.groupGameSettings="Configuración del juego"
+vBot.ActionsHub.Main.checkBoxAutoSelectUniques="Seleccionar automáticamente únicos"
+vBot.ActionsHub.Main.checkBoxAutoSelectUniquesInRange="Seleccione automáticamente un único en el rango del área de entrenamiento"
+vBot.ActionsHub.Main.checkBoxKeepRendering="Mantener el renderizado del juego en segundo plano"
+vBot.ActionsHub.Main.checkBoxAutoRepair="Equipo de reparación de automóviles"
+vBot.ActionsHub.Main.checkBoxShowInvisible="Mostrar el jugador en modo sigiloso o invisible"
+vBot.ActionsHub.Main.checkBoxAutoDetectPotion="Uso automático de la poción de detección cuando se detecta el jugador invisible (alcance de 25 m, no GM)"
+vBot.ActionsHub.Main.checkBoxDetectGMInvisible="Mostrar Invisible GM"
+vBot.ActionsHub.Main.checkBoxNoticeInvisible="Enviar aviso cuando se detecte el reproductor invisible (alcance de 40 m)"

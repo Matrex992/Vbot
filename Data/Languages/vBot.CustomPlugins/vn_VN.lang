@@ -1,0 +1,8 @@
+; vn_VN translation file - vBot.CustomPlugins
+vBot.CustomPlugins.Main.tabControl="Plugin tùy chỉnh"
+vBot.CustomPlugins.Main.managerTab="Quản lý plugin"
+vBot.CustomPlugins.Main.btnRefresh="Làm cho khỏe lại"
+vBot.CustomPlugins.Main.btnReload="Tải lại đã chọn"
+vBot.CustomPlugins.Main.btnOpenFolder="Mở thư mục plugin"
+vBot.CustomPlugins.Main.lblStatus="Thư mục Plugin tùy chỉnh"
+DisplayName="Tiện ích bổ sung tùy chỉnh"

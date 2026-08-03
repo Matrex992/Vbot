@@ -1,0 +1,4 @@
+; vn_VN translation file - vBot.ChatCommands
+DisplayName="Lệnh trò chuyện"
+vBot.ChatCommands.Main.label1="Các lệnh có sẵn"
+vBot.ChatCommands.Main.lblSubtitle="Nhập các lệnh sau vào cửa sổ trò chuyện trò chơi:"

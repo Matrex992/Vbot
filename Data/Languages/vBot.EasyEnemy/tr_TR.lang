@@ -1,0 +1,13 @@
+; tr_TR translation file - vBot.EasyEnemy
+DisplayName="Kolay Düşman"
+vBot.EasyEnemy.Main.groupSettings="Kolay Düşman Ayarları"
+vBot.EasyEnemy.Main.checkEnable="Kolay Düşmanı Etkinleştir"
+vBot.EasyEnemy.Main.lblRange="Tarama Aralığı:"
+vBot.EasyEnemy.Main.checkAvoidBless="Bless büyüsünden kaçının"
+vBot.EasyEnemy.Main.checkAvoidSnow="Kar Kalkanından Kaçının"
+vBot.EasyEnemy.Main.checkPreferFence="Çit güçlendirmesi olan hedefleri tercih edin"
+vBot.EasyEnemy.Main.checkAvoidGuild="Lonca Arkadaşlarını Hedef Almayın"
+vBot.EasyEnemy.Main.checkClearOnBuff="Bless/Snow'da Hedefi Temizle"
+vBot.EasyEnemy.Main.checkPreferChinese="Çin Irkını Tercih Edin"
+vBot.EasyEnemy.Main.checkPreferEurope="Avrupa Irkını Tercih Edin"
+vBot.EasyEnemy.Main.lblStatus="Durum: Boşta"

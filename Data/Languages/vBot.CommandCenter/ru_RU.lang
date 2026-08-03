@@ -1,0 +1,10 @@
+vBot.CommandCenter.Main.TabControl.TabPage.label1="Пишите эти команды в чат игры"
+vBot.CommandCenter.Main.TabControl.TabPage.label2="<скоро>"
+vBot.CommandCenter.Main.TabControl.tabPage1="Команды эмоций"
+vBot.CommandCenter.Main.TabControl.tabPage2="Команды чата"
+vBot.CommandCenter.Main.TabControl.tabPage3="Уведомления"
+vBot.CommandCenter.Main.btnSave="Сохранить"
+vBot.CommandCenter.Main.btnResetToDefaults="По умолчанию"
+vBot.CommandCenter.Main.checkEnable="Включить Command center"
+
+DisplayName="Командный центр"

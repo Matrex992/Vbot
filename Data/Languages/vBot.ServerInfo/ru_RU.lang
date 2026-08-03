@@ -1,0 +1,4 @@
+; ru_RU translation file - vBot.ServerInfo
+vBot.ServerInfo.Main.lvServerInfo.Column0="Сервер"
+vBot.ServerInfo.Main.lvServerInfo.Column1="Емкость"
+DisplayName="Информация о сервере"

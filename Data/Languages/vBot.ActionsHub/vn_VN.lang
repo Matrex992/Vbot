@@ -1,0 +1,11 @@
+; vn_VN translation file - vBot.ActionsHub
+DisplayName="Trung tâm hành động"
+vBot.ActionsHub.Main.groupGameSettings="Cài đặt trò chơi"
+vBot.ActionsHub.Main.checkBoxAutoSelectUniques="Tự động chọn duy nhất"
+vBot.ActionsHub.Main.checkBoxAutoSelectUniquesInRange="Tự động chọn duy nhất trong phạm vi khu vực đào tạo"
+vBot.ActionsHub.Main.checkBoxKeepRendering="Giữ kết xuất trò chơi ở chế độ nền"
+vBot.ActionsHub.Main.checkBoxAutoRepair="Thiết bị sửa chữa ô tô"
+vBot.ActionsHub.Main.checkBoxShowInvisible="Hiển thị trình phát ở chế độ ẩn hoặc invisible"
+vBot.ActionsHub.Main.checkBoxAutoDetectPotion="Tự động sử dụng thuốc phát hiện khi phát hiện người chơi invisible (phạm vi 25m, không phải GM)"
+vBot.ActionsHub.Main.checkBoxDetectGMInvisible="Hiển thị Invisible GM"
+vBot.ActionsHub.Main.checkBoxNoticeInvisible="Gửi thông báo khi phát hiện trình phát invisible (phạm vi 40m)"

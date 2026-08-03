@@ -1,0 +1,8 @@
+DisplayName="Registro"
+vBot.Log.Main.Panel.checkNormal="Normal"
+vBot.Log.Main.Panel.checkError="Error"
+vBot.Log.Main.Panel.checkWarning="Advertencia"
+vBot.Log.Main.Panel.checkDebug="Depurar"
+vBot.Log.Main.Panel.btnReset="Limpiar"
+vBot.Log.Main.Panel.checkEnabled="Activado"
+

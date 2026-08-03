@@ -1,0 +1,4 @@
+; de_DE translation file - vBot.ChatCommands
+DisplayName="Chat-Befehle"
+vBot.ChatCommands.Main.label1="Verfügbare Befehle"
+vBot.ChatCommands.Main.lblSubtitle="Geben Sie die folgenden Befehle in das Spiel-Chat-Fenster ein:"

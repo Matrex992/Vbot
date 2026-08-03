@@ -1,0 +1,8 @@
+DisplayName="Kayıt"
+vBot.Log.Main.Panel.checkNormal="Normal"
+vBot.Log.Main.Panel.checkError="Hata"
+vBot.Log.Main.Panel.checkWarning="Uyarı"
+vBot.Log.Main.Panel.checkDebug="Hata ayıklama"
+vBot.Log.Main.Panel.btnReset="Temizlemek"
+vBot.Log.Main.Panel.checkEnabled="Etkinleştirilmiş"
+

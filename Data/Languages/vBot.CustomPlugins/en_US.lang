@@ -1,0 +1,6 @@
+vBot.CustomPlugins.Main.tabControl="Custom Plugins"
+vBot.CustomPlugins.Main.managerTab="Manage Plugins"
+vBot.CustomPlugins.Main.btnRefresh="Refresh"
+vBot.CustomPlugins.Main.btnReload="Reload Selected"
+vBot.CustomPlugins.Main.btnOpenFolder="Open Plugins Folder"
+vBot.CustomPlugins.Main.lblStatus="Custom Plugins folder"

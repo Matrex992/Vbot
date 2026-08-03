@@ -1,0 +1,11 @@
+; tr_TR translation file - vBot.ActionsHub
+DisplayName="Eylem Merkezi"
+vBot.ActionsHub.Main.groupGameSettings="Oyun Ayarları"
+vBot.ActionsHub.Main.checkBoxAutoSelectUniques="Benzersizleri otomatik olarak seç"
+vBot.ActionsHub.Main.checkBoxAutoSelectUniquesInRange="Eğitim alanı aralığındaki benzersizleri otomatik olarak seç"
+vBot.ActionsHub.Main.checkBoxKeepRendering="Oyun oluşturmayı arka planda tut"
+vBot.ActionsHub.Main.checkBoxAutoRepair="Oto tamir ekipmanları"
+vBot.ActionsHub.Main.checkBoxShowInvisible="Oynatıcıyı gizli veya invisible modunda gösterin"
+vBot.ActionsHub.Main.checkBoxAutoDetectPotion="invisible oynatıcı algılandığında algılama iksirini otomatik olarak kullan (25 m menzil, GM olmayan)"
+vBot.ActionsHub.Main.checkBoxDetectGMInvisible="Invisible GM'yi göster"
+vBot.ActionsHub.Main.checkBoxNoticeInvisible="invisible oynatıcı algılandığında bildirim gönder (40m menzil)"

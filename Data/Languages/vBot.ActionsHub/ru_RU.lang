@@ -1,0 +1,11 @@
+; ru_RU translation file - vBot.ActionsHub
+DisplayName="Центр действий"
+vBot.ActionsHub.Main.groupGameSettings="Настройки игры"
+vBot.ActionsHub.Main.checkBoxAutoSelectUniques="Автоматически выбирать уникальные"
+vBot.ActionsHub.Main.checkBoxAutoSelectUniquesInRange="Автоматически выбирать уникальный диапазон области обучения"
+vBot.ActionsHub.Main.checkBoxKeepRendering="Оставить рендеринг игры в фоновом режиме"
+vBot.ActionsHub.Main.checkBoxAutoRepair="Авторемонтное оборудование"
+vBot.ActionsHub.Main.checkBoxShowInvisible="Показать игрока в режиме скрытности или invisible."
+vBot.ActionsHub.Main.checkBoxAutoDetectPotion="Автоматическое использование зелья обнаружения при обнаружении игрока invisible (диапазон 25 м, не GM)"
+vBot.ActionsHub.Main.checkBoxDetectGMInvisible="Показать Invisible GM"
+vBot.ActionsHub.Main.checkBoxNoticeInvisible="Отправлять уведомление при обнаружении проигрывателя invisible (диапазон 40 м)"

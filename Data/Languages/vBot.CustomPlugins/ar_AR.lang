@@ -1,0 +1,7 @@
+﻿vBot.CustomPlugins.Main.tabControl="الإضافات المخصصة"
+vBot.CustomPlugins.Main.managerTab="إدارة المكونات الإضافية"
+vBot.CustomPlugins.Main.btnRefresh="تحديث"
+vBot.CustomPlugins.Main.btnReload="إعادة تحميل المحدد"
+vBot.CustomPlugins.Main.btnOpenFolder="افتح مجلد الإضافات"
+vBot.CustomPlugins.Main.lblStatus="مجلد الإضافات المخصصة"
+DisplayName="إضافات مخصصة"

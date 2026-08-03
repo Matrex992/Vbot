@@ -1,0 +1,7 @@
+﻿DisplayName="Map"
+vBot.Map.Main.label3="This function does not work while the bot is active.\nIf you want the bot to auto attack while active,\nset Avoidance."
+vBot.Map.Main.checkBoxAutoSelectUniques="Automatically select uniques"
+vBot.Map.Main.label4="Show:"
+vBot.Map.Main.lblRegion="Not in game"
+NoName="<No name>"
+

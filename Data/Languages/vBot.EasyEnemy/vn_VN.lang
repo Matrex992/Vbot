@@ -1,0 +1,13 @@
+; vn_VN translation file - vBot.EasyEnemy
+DisplayName="Kẻ thù dễ dàng"
+vBot.EasyEnemy.Main.groupSettings="Cài đặt kẻ thù dễ dàng"
+vBot.EasyEnemy.Main.checkEnable="Kích hoạt kẻ thù dễ dàng"
+vBot.EasyEnemy.Main.lblRange="Phạm vi quét:"
+vBot.EasyEnemy.Main.checkAvoidBless="Tránh bùa chú"
+vBot.EasyEnemy.Main.checkAvoidSnow="Tránh Khiên Tuyết"
+vBot.EasyEnemy.Main.checkPreferFence="Ưu tiên mục tiêu có buff Hàng rào"
+vBot.EasyEnemy.Main.checkAvoidGuild="Đừng nhắm mục tiêu vào bạn bè trong bang hội"
+vBot.EasyEnemy.Main.checkClearOnBuff="Xóa mục tiêu trên Bless/Snow"
+vBot.EasyEnemy.Main.checkPreferChinese="Ưu tiên chủng tộc Trung Quốc"
+vBot.EasyEnemy.Main.checkPreferEurope="Thích chủng tộc châu Âu"
+vBot.EasyEnemy.Main.lblStatus="Trạng thái: Nhàn rỗi"

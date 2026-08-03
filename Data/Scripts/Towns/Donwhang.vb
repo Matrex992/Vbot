@@ -1,0 +1,22 @@
+move, 3564.1, 2054.8, -106.0
+move, 3571.4, 2042.4, -106.0
+buy NPC_WC_SMITH
+move, 3570.5, 2018.3, -106.0
+move, 3578.3, 1989.6, -105.0
+store NPC_WC_WAREHOUSE_M
+move, 3572.3, 2009.7, -106.0
+buy NPC_WC_ARMOR
+move, 3538.8, 2001.8, -106.0
+move, 3518.7, 1995.4, -104.0
+buy NPC_WC_ACCESSORY
+move, 3519.3, 2015.8, -105.0
+move, 3518.8, 2033.7, -106.0
+buy NPC_WC_POTION
+move, 3538.9, 2054.3, -106.0
+move, 3557.9, 2074.2, -106.0
+move, 3573.2, 2090.9, -106.0
+move, 3595.4, 2089.5, -106.0
+buy NPC_WC_HORSE
+move, 3568.9, 2090.5, -106.0
+move, 3552.2, 2067.4, -106.0
+doscript

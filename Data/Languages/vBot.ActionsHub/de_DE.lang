@@ -1,0 +1,11 @@
+; de_DE translation file - vBot.ActionsHub
+DisplayName="Aktions-Hub"
+vBot.ActionsHub.Main.groupGameSettings="Spieleinstellungen"
+vBot.ActionsHub.Main.checkBoxAutoSelectUniques="Wählen Sie automatisch Unikate aus"
+vBot.ActionsHub.Main.checkBoxAutoSelectUniquesInRange="Wählen Sie automatisch einen einzigartigen Bereich im Trainingsbereich aus"
+vBot.ActionsHub.Main.checkBoxKeepRendering="Behalten Sie das Rendern des Spiels im Hintergrund bei"
+vBot.ActionsHub.Main.checkBoxAutoRepair="Autoreparaturausrüstung"
+vBot.ActionsHub.Main.checkBoxShowInvisible="Zeigen Sie den Player im Stealth- oder invisible-Modus an"
+vBot.ActionsHub.Main.checkBoxAutoDetectPotion="Erkennungstrank automatisch verwenden, wenn der invisible-Spieler erkannt wird (25 m Reichweite, nicht GM)"
+vBot.ActionsHub.Main.checkBoxDetectGMInvisible="Invisible GM anzeigen"
+vBot.ActionsHub.Main.checkBoxNoticeInvisible="Benachrichtigung senden, wenn der invisible-Player erkannt wird (Reichweite 40 m)"

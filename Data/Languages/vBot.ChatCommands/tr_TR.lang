@@ -1,0 +1,4 @@
+; tr_TR translation file - vBot.ChatCommands
+DisplayName="Sohbet Komutları"
+vBot.ChatCommands.Main.label1="Mevcut Komutlar"
+vBot.ChatCommands.Main.lblSubtitle="Oyun sohbet penceresine aşağıdaki komutları yazın:"

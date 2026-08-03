@@ -1,0 +1,8 @@
+; tr_TR translation file - vBot.CustomPlugins
+vBot.CustomPlugins.Main.tabControl="Özel Eklentiler"
+vBot.CustomPlugins.Main.managerTab="Eklentileri Yönet"
+vBot.CustomPlugins.Main.btnRefresh="Yenile"
+vBot.CustomPlugins.Main.btnReload="Seçileni Yeniden Yükle"
+vBot.CustomPlugins.Main.btnOpenFolder="Eklentiler Klasörünü Aç"
+vBot.CustomPlugins.Main.lblStatus="Özel Eklentiler klasörü"
+DisplayName="Özel eklentiler"

@@ -1,0 +1,8 @@
+DisplayName="Protokoll"
+vBot.Log.Main.Panel.checkNormal="Normal"
+vBot.Log.Main.Panel.checkError="Fehler"
+vBot.Log.Main.Panel.checkWarning="Warnung"
+vBot.Log.Main.Panel.checkDebug="Debuggen"
+vBot.Log.Main.Panel.btnReset="Klar"
+vBot.Log.Main.Panel.checkEnabled="Ermöglicht"
+

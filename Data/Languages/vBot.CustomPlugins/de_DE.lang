@@ -1,0 +1,8 @@
+; de_DE translation file - vBot.CustomPlugins
+vBot.CustomPlugins.Main.tabControl="Benutzerdefinierte Plugins"
+vBot.CustomPlugins.Main.managerTab="Plugins verwalten"
+vBot.CustomPlugins.Main.btnRefresh="Aktualisieren"
+vBot.CustomPlugins.Main.btnReload="Ausgewählte neu laden"
+vBot.CustomPlugins.Main.btnOpenFolder="Öffnen Sie den Plugins-Ordner"
+vBot.CustomPlugins.Main.lblStatus="Ordner „Benutzerdefinierte Plugins“."
+DisplayName="Benutzerdefinierte Add-ons"

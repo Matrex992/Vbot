@@ -1,0 +1,13 @@
+; ru_RU translation file - vBot.EasyEnemy
+DisplayName="Легкий враг"
+vBot.EasyEnemy.Main.groupSettings="Простые настройки врагов"
+vBot.EasyEnemy.Main.checkEnable="Включить Легкий враг"
+vBot.EasyEnemy.Main.lblRange="Диапазон сканирования:"
+vBot.EasyEnemy.Main.checkAvoidBless="Избегайте заклинания благословения"
+vBot.EasyEnemy.Main.checkAvoidSnow="Избегайте снежного щита"
+vBot.EasyEnemy.Main.checkPreferFence="Предпочитайте цели с баффами Забора."
+vBot.EasyEnemy.Main.checkAvoidGuild="Не нацеливайтесь на товарищей по гильдии"
+vBot.EasyEnemy.Main.checkClearOnBuff="Очистить цель на Благословении/Снеге"
+vBot.EasyEnemy.Main.checkPreferChinese="Предпочитаю китайскую расу"
+vBot.EasyEnemy.Main.checkPreferEurope="Предпочитаю европейскую гонку"
+vBot.EasyEnemy.Main.lblStatus="Статус: Неактивен"

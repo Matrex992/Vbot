@@ -1,0 +1,4 @@
+; ru_RU translation file - vBot.ChatCommands
+DisplayName="Команды чата"
+vBot.ChatCommands.Main.label1="Доступные команды"
+vBot.ChatCommands.Main.lblSubtitle="Введите следующие команды в окно игрового чата:"

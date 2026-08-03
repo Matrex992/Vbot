@@ -1,0 +1,34 @@
+{
+  "vBot": {
+    "Language": "en_US",
+    "Theme": {
+      "Mode": "Light",
+      "Color": -1
+    },
+    "LastSelectedServerConfig": "Retro Fire",
+    "_migration": {},
+    "BotName": "vBot.Default",
+    "Log": {
+      "notifyDedupMs": 750
+    },
+    "Helper": {
+      "Language": ""
+    },
+    "TranslationIndex": 9,
+    "DynamicWorld": {
+      "TownAreaNameRegex": "",
+      "Diagnostics": {
+        "DumpVerbose": false,
+        "DumpOnLoad": false
+      }
+    },
+    "General": {},
+    "HideWelcomeMessage": true,
+    "ClientLoader": {
+      "HookProfile": "Auto"
+    },
+    "UI": {
+      "EnableIcons": true
+    }
+  }
+}
